@@ -37,9 +37,3 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * 
  */
-
-/*!
- Copyright (c) Peculiar Ventures, LLC
-*/
-
-/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
